@@ -15,11 +15,11 @@ aberto será possível entrar com último usuário e senha digitados, ou
 digitar um novo usuário e senha. Para essa tela deve ser utilizado um
 banco de dados local ou outra técnica de armazenamento local.
 
-##### Tela 2: 
+##### Tela :two:: 
 
 Painel de controle (Dashboard), com um botão chamando a tela 3.
 
-##### Tela 3:
+##### Tela :three::
 
 a) Buscar CEP digitado e mostrar retorno da tela. Usar o seguinte
 webservice para consulta http://viacep.com.br/ .
