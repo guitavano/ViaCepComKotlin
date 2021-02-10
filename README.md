@@ -3,19 +3,24 @@ Projeto desenvolvido para o processo seletivo da www.tantto.com.br/
 
 # Regras:
 
-Desenvolver um aplicativo móvel que seja compilável para Android
+### Desenvolver um aplicativo móvel que seja compilável para Android
 usando Android Studio com linguagem Java ou Kotlin (preferencial).
 
-Este aplicativo deverá conter 3 telas.
+#### Este aplicativo deverá conter 3 telas.
 
-Tela 1: Tela de login, com usuário e senha. Sempre que o aplicativo for
+##### Tela 1:
+
+Tela de login, com usuário e senha. Sempre que o aplicativo for
 aberto será possível entrar com último usuário e senha digitados, ou
 digitar um novo usuário e senha. Para essa tela deve ser utilizado um
 banco de dados local ou outra técnica de armazenamento local.
 
-Tela 2: Painel de controle (Dashboard), com um botão chamando a tela 3.
+##### Tela 2: 
 
-Tela 3:
+Painel de controle (Dashboard), com um botão chamando a tela 3.
+
+##### Tela 3:
+
 a) Buscar CEP digitado e mostrar retorno da tela. Usar o seguinte
 webservice para consulta http://viacep.com.br/ .
 
