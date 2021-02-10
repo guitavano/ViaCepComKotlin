@@ -3,12 +3,12 @@ Projeto desenvolvido para o processo seletivo da www.tantto.com.br/
 
 # Regras:
 
-### Desenvolver um aplicativo móvel que seja compilável para Android
-usando Android Studio com linguagem Java ou Kotlin (preferencial).
+### Desenvolver um aplicativo móvel que seja compilável para Android usando Android Studio com linguagem Java ou Kotlin (preferencial).
+
 
 #### Este aplicativo deverá conter 3 telas.
 
-##### Tela 1:
+##### Tela :one:: 
 
 Tela de login, com usuário e senha. Sempre que o aplicativo for
 aberto será possível entrar com último usuário e senha digitados, ou
